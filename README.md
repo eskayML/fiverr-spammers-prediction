@@ -1,2 +1,2 @@
 # fiverr-spammers-prediction
-A kaggle competition for predicting Fiverr spammers
+An online kaggle competition for predicting Fiverr spammers
